@@ -1,0 +1,6 @@
+.idea
+.env
+.database
+.DS_Store
+
+/config/config.yaml
